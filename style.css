@@ -1,0 +1,12 @@
+html {
+    background-color: rgb(219, 201, 34);
+}
+
+nav a {
+    border: 1 px solid gray;
+    margin: 1em;
+    padding: 1em;
+    background-color: crimson;
+    font-size: 1em;
+
+}
